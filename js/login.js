@@ -15,7 +15,7 @@ document.getElementById('btn-submit').addEventListener('click', function()
     /// stop - 4 : verify email and password ( worng way dont use)
     if(email === 'mtb@bank.com' && password === 'mtb')
     {
-        location.href = "index.html";
+        location.href = "bank-indisde.html";
     }
     else{
         alert('tui password vule gasos tuke ses korbo ami akon');
